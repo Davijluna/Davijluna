@@ -1,5 +1,5 @@
 <h1 align="center">Olá meu nome é Davi</h1>
-<h3 align="center">Estudante de desenvolvimento Web.</h3>
+<h3 align="center">Estudante de desenvolvimento Web na Trybe.</h3>
 
 - 📚 Estou estudando **Back end.**
 
