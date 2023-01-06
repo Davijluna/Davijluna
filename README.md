@@ -4,7 +4,7 @@
 - 📚 Estou estudando **Back end.**
 - 🏁Completei o módulo de **Fudamentos.**
 - 🏁Completei o módulo de **Front End.**
-- 📫 Meu Linkdin [https://www.linkedin.com/in/davi-jesus-de-luna-723960229/](https://www.linkedin.com/in/davi-jesus-de-luna-723960229/)
+- 📫 Meu Linkdin [https://www.linkedin.com/in/davilunadev/](https://www.linkedin.com/in/davilunadev/)
 - 📫 Você consegue me achar nesse email **davijluna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
