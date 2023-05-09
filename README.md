@@ -1,7 +1,8 @@
 <h1 align="center">Olá meu nome é Davi</h1>
 <h3 align="center">Estudante de desenvolvimento Web na Trybe.</h3>
 
-- 📚 Estou estudando **Back end.**
+- 🏁Completei o módulo de **Ciência da Computação**
+- 🏁Completei o módulo de **Back end.**
 - 🏁Completei o módulo de **Fudamentos.**
 - 🏁Completei o módulo de **Front End.**
 - 📫 Meu Linkdin [https://www.linkedin.com/in/davilunadev/](https://www.linkedin.com/in/davilunadev/)
