@@ -1,10 +1,8 @@
 <h1 align="center">Olá meu nome é Davi</h1>
-<h3 align="center">Estudante de desenvolvimento Web na Trybe.</h3>
+<h3 align="center">Desenvolvedor Web.</h3>
 
-- 🏁Completei o módulo de **Ciência da Computação**
-- 🏁Completei o módulo de **Back end.**
-- 🏁Completei o módulo de **Fudamentos.**
-- 🏁Completei o módulo de **Front End.**
+- Atualmente estou estudando **Java**
+
 - 📫 Meu Linkdin [https://www.linkedin.com/in/davilunadev/](https://www.linkedin.com/in/davilunadev/)
 - 📫 Você consegue me achar nesse email **davijluna@gmail.com**
 
