@@ -1,7 +1,7 @@
 <h1 align="center">Olá meu nome é Davi</h1>
 <h3 align="center">Desenvolvedor Web.</h3>
 
-- Atualmente estou estudando **Java**
+- ## Atualmente estou estudando **Java**
 
 - 📫 Meu Linkdin [https://www.linkedin.com/in/davilunadev/](https://www.linkedin.com/in/davilunadev/)
 - 📫 Você consegue me achar nesse email **davijluna@gmail.com**
