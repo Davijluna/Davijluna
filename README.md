@@ -34,7 +34,10 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> </a> </p>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+ 
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> </a>
+ </p>
  <div align="center">
   
 
