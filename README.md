@@ -1,4 +1,5 @@
-<h1 align="center">Olá meu nome é Davi</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Olá%20meu%20nome%20é%20Davi&fontSize=30&fontColor=fff&animation=twinkling&fontAlingY=35"/>
+
 <h2 align="center">Desenvolvedor Web.</h2>
 
 <h2 align="center">Atualmente estou estudando <strong>Java</strong></h2>
