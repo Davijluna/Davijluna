@@ -1,6 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Olá%20meu%20nome%20é%20Davi&fontSize=30&fontColor=fff&animation=twinkling&fontAlingY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=%20Davi%20Jesus%20de%20Luna&fontSize=30&fontColor=fff&animation=twinkling&fontAlingY=35"/>
 
-<h2 align="center">Desenvolvedor Web.</h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLA,+MEU+NOME+é+Davi+Jesus+de+Luna;+Sou+Desenvolvedor+Web;+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <h2 align="center">Atualmente estou estudando <strong>Java</strong></h2>
 
