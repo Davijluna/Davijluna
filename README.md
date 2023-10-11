@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white">
   <br><br>
   
   Languages <br>
