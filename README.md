@@ -9,7 +9,7 @@
 </div>
 
 <h2 align="center">Atualmente estou estudando <strong>Java</strong></h2>
-<a href="https://www.linkedin.com/in/davilunadev/">
+<a href="[https://www.linkedin.com/in/davilunadev/](https://www.linkedin.com/in/davilunadev/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
