@@ -3,6 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLA,+MEU+NOME+é+Davi+Jesus+de+Luna;+Sou+Desenvolvedor+Web;+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
+  <div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Davijluna&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davijluna&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
 <h2 align="center">Atualmente estou estudando <strong>Java</strong></h2>
 
 - 📫 Meu Linkdin [https://www.linkedin.com/in/davilunadev/](https://www.linkedin.com/in/davilunadev/)
@@ -40,10 +45,3 @@
  
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> </a>
  </p>
- <div align="center">
-  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davijluna&theme=algolia&layout=compact)](https://github.com/davijluna/github-readme-stats)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davijluna&theme=algolia&show_icons=true)
-
- </div>
