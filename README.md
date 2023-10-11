@@ -9,12 +9,14 @@
 </div>
 
 <h2 align="center">Atualmente estou estudando <strong>Java</strong></h2>
-<a href="https://linkedin.com/in/davijluna.linkedin.com">
+<a href="https://www.linkedin.com/in/davilunadev/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 - 📫 Meu Linkdin [https://www.linkedin.com/in/davilunadev/](https://www.linkedin.com/in/davilunadev/)
 - 📫 Você consegue me achar nesse email **davijluna@gmail.com**
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Davijluna&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
