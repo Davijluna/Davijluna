@@ -57,3 +57,5 @@
  
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> </a>
  </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
