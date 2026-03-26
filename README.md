@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=%20Davi%20Jesus%20de%20Luna&fontSize=30&fontColor=fff&animation=twinkling&fontAlingY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Davi+Jesus+de+Luna;+Sou+Desenvolvedor+focado+em+automação+e+soluções+práticas;+com+Java+JavaScript+e+Python;+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Davi+Jesus+de+Luna;+Sou+Desenvolvedor;+focado+em+automação+e+soluções+práticas;+com+Java+JavaScript+e+Python;+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
  <!-- 
  <div align="center">  
