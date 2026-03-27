@@ -24,7 +24,7 @@
     </a>
   </div>
   
-  Me adicionne no linkedIn
+  Me adicione no linkedIn
 
   <div align="center">
     <a href="https://www.linkedin.com/in/davilunadev/">
