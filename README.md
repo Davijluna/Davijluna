@@ -12,7 +12,7 @@
 
 
 
-<h2 align="center">Atualmente estou estudando <strong>Java</strong></h2>
+<h2 align="center">Desenvolvedor focado em desenvolvimento web utilizando JavaScript, React, Node.js e Java. Apaixonado por criar soluções para problemas reais através da tecnologia.<strong>Java</strong></h2>
 <div align="center">
   <br><br>
 
